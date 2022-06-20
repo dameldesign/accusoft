@@ -506,6 +506,10 @@ tr td:last-child {
     header h2 label {
         margin-right: 0.2rem;
     }
+
+    header {
+        gap: 1rem
+    }
 }
 
 
