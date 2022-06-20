@@ -494,6 +494,12 @@ tr td:last-child {
 }
 
 @media only screen and (max-width: 560px) {
+
+    :root{
+        background: linear-gradient(90deg, #1CB5E0 0%, hwb(234 0% 68%) 100%);
+    }
+
+    
     .cards {
         grid-template-columns: 100%;
     }
